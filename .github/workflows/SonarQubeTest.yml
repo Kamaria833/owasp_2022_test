@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=com.shell.tooling-benchmark \
+  -Dsonar.host.url=https://sesvc.shell.com \
+  -Dsonar.login=d872f122653be34297aa3ede1d7f52505c746192
